@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/bojan-pecanac-project-05/static/js/runtime~main.179c0c07.js"
   },
   {
-    "revision": "e2bbe22345196f5b7691",
-    "url": "/bojan-pecanac-project-05/static/js/main.e2bbe223.chunk.js"
+    "revision": "4a4a1409b9b375fec309",
+    "url": "/bojan-pecanac-project-05/static/js/main.4a4a1409.chunk.js"
   },
   {
     "revision": "2175b7e2b03ce29ab1bc",
     "url": "/bojan-pecanac-project-05/static/js/2.2175b7e2.chunk.js"
   },
   {
-    "revision": "e2bbe22345196f5b7691",
+    "revision": "4a4a1409b9b375fec309",
     "url": "/bojan-pecanac-project-05/static/css/main.fc8d7164.chunk.css"
   },
   {
-    "revision": "318faf99f8466fd2aa1241bd20d37cb0",
+    "revision": "3360ed53f0bdf164b20455733471efd8",
     "url": "/bojan-pecanac-project-05/index.html"
   }
 ];
