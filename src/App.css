@@ -1,8 +1,8 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
-.App-logo {
+/* .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
@@ -30,4 +30,38 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.wrapper {
+  max-width: 1600px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 5px 10px;
+}
+
+button {
+  padding: 5px 10px;
+  background: white;
+}
+
+img {
+  max-width: 100%;
 }
