@@ -1,13 +1,13 @@
 {
-  "main.css": "/bojan-pecanac-project-05/static/css/main.6ddb3404.chunk.css",
-  "main.js": "/bojan-pecanac-project-05/static/js/main.15c3b94b.chunk.js",
-  "main.js.map": "/bojan-pecanac-project-05/static/js/main.15c3b94b.chunk.js.map",
+  "main.css": "/bojan-pecanac-project-05/static/css/main.fc8d7164.chunk.css",
+  "main.js": "/bojan-pecanac-project-05/static/js/main.e2bbe223.chunk.js",
+  "main.js.map": "/bojan-pecanac-project-05/static/js/main.e2bbe223.chunk.js.map",
   "runtime~main.js": "/bojan-pecanac-project-05/static/js/runtime~main.179c0c07.js",
   "runtime~main.js.map": "/bojan-pecanac-project-05/static/js/runtime~main.179c0c07.js.map",
   "static/js/2.2175b7e2.chunk.js": "/bojan-pecanac-project-05/static/js/2.2175b7e2.chunk.js",
   "static/js/2.2175b7e2.chunk.js.map": "/bojan-pecanac-project-05/static/js/2.2175b7e2.chunk.js.map",
   "index.html": "/bojan-pecanac-project-05/index.html",
-  "precache-manifest.5242c42f3437618a33236cd55363f9dc.js": "/bojan-pecanac-project-05/precache-manifest.5242c42f3437618a33236cd55363f9dc.js",
+  "precache-manifest.bdd22b7985cca0e2c3e4a4f8c0a075c0.js": "/bojan-pecanac-project-05/precache-manifest.bdd22b7985cca0e2c3e4a4f8c0a075c0.js",
   "service-worker.js": "/bojan-pecanac-project-05/service-worker.js",
-  "static/css/main.6ddb3404.chunk.css.map": "/bojan-pecanac-project-05/static/css/main.6ddb3404.chunk.css.map"
+  "static/css/main.fc8d7164.chunk.css.map": "/bojan-pecanac-project-05/static/css/main.fc8d7164.chunk.css.map"
 }
