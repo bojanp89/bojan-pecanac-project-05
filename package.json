@@ -1,15 +1,19 @@
 {
+  "homepage": "https://bojanp89.github.io/bojan-pecanac-project-05",
   "name": "quick-travel-guide",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-autosuggest": "^9.4.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

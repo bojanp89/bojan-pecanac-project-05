@@ -46,7 +46,6 @@ class App extends Component {
         currencies: response.data[0].currencies[0],
         languages: response.data[0].languages[0]
       })
-      console.log(this.state.apiResults);
     })
   }
 
@@ -72,7 +71,7 @@ class App extends Component {
         ) : (
           this.state.apiResults.length !== 0 && 
           <div>
-            <h1>{this.state.apiResults.name}</h1>
+            <h2>{this.state.apiResults.name}</h2>
             <p>Currencies: {this.state.currencies.code} {this.state.currencies.name}</p>
             <p>Capital: {this.state.apiResults.capital}</p>
             <p>Language: {this.state.languages.name}</p>
