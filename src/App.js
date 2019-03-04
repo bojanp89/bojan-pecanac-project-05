@@ -75,7 +75,7 @@ class App extends Component {
             <p>Currencies: {this.state.currencies.code} {this.state.currencies.name}</p>
             <p>Capital: {this.state.apiResults.capital}</p>
             <p>Language: {this.state.languages.name}</p>
-            <p>Population: {this.state.apiResults.population}</p>
+            <p>Population: {this.state.apiResults.population} people</p>
             <img src={this.state.apiResults.flag} />
         </div>
         )}
